@@ -21,6 +21,7 @@ SOFTWARE.
 */
 
 #include "Python.h"
+#include "object.h"
 #include "c_gpio.h"
 #include "event_gpio.h"
 #include "py_pwm.h"
