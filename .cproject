@@ -42,7 +42,7 @@
 							</tool>
 							<tool id="cdt.managedbuild.tool.gnu.cross.c.linker.2101550425" name="Cross GCC Linker" superClass="cdt.managedbuild.tool.gnu.cross.c.linker">
 								<option defaultValue="true" id="gnu.c.link.option.shared.640432435" name="Shared (-shared)" superClass="gnu.c.link.option.shared" valueType="boolean"/>
-								<option id="gnu.c.link.option.libs.1993153004" superClass="gnu.c.link.option.libs" valueType="libs">
+								<option id="gnu.c.link.option.libs.1993153004" name="Libraries (-l)" superClass="gnu.c.link.option.libs" valueType="libs">
 									<listOptionValue builtIn="false" value="-lpython2.7"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.linker.input.442032536" superClass="cdt.managedbuild.tool.gnu.c.linker.input">
